@@ -62,4 +62,11 @@ Once the backend is running:
 1.  Open the `front.html` file located in the main `Mini Project/` folder directly in your web browser.
 2.  You should now be able to interact with the chatbot, which communicates with your running Node.js backend.
 
----
+## ⚠️ Quick-View & Troubleshooting
+
+### Direct Frontend Access (Bypass API)
+
+If you only want to view the HTML/CSS and generate constant responses  of the chat interface, or if you encounter issues running the Node.js backend or setting up the Gemini API key, you can bypass the server:
+
+* Simply open the **`front.html`** file directly in your web browser.
+* You can refer to the content inside the script tag of the **`front.html`** for what keywords to type in for certain outputs.
